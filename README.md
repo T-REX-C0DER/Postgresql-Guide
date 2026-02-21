@@ -1,4 +1,4 @@
-# 🚀 PostgreSQL Engineering Mastery
+# 🚀 PostgreSQL Mastery
 
 A **complete PostgreSQL learning + implementation repository** designed for AI & Data Science students and backend developers.
 
@@ -121,22 +121,6 @@ Perfect backend foundation for your AI projects.
 * Backend developers
 * System design learners
 * PostgreSQL beginners → advanced engineers
-
----
-
-## 🌟 Future Additions
-
-* PostgreSQL + Next.js Auth System Integration
-* PostgreSQL + Machine Learning Pipelines
-* High-scale Architecture Case Studies
-* Cloud Deployment (AWS RDS / Supabase)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome.
-Improve queries, add examples, or share real-world schemas.
 
 ---
 
