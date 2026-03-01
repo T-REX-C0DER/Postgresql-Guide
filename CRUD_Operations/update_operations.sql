@@ -178,4 +178,3 @@ WHERE metric_name = 'F1 Score';
 UPDATE research.researchers
 SET email = 'sanjay.updated@college.edu'
 WHERE email = 'sanjay@college.edu';
-
