@@ -196,9 +196,3 @@ INSERT INTO research.researchers (full_name, email, institution)
 VALUES
 ('Sanjay Lade', 'sanjay@college.edu', 'Engineering College'),
 ('Priya Sharma', 'priya@ai-lab.com', 'AI Research Lab');
-
-
-
-/* ================================================================
-   END OF CREATE OPERATIONS FILE
-================================================================ */

@@ -253,9 +253,3 @@ FROM research.researchers r
 LEFT JOIN research.datasets d
 ON r.researcher_id = d.uploaded_by
 GROUP BY r.full_name;
-
-
-
-/* ================================================================
-   END OF READ OPERATIONS FILE
-================================================================ */

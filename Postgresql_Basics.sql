@@ -207,17 +207,3 @@ COMMIT;
 CREATE VIEW adult_students AS
 SELECT * FROM students
 WHERE age >= 18;
-
-
-
--- ============================================================
--- 15. BASIC RULES OF POSTGRESQL
--- ============================================================
-
--- 1. Always use PRIMARY KEY
--- 2. Use correct data types
--- 3. Normalize database
--- 4. Use constraints
--- 5. Create indexes for large tables
--- 6. Backup database regularly
--- 7. Avoid SELECT * in production
